@@ -1,6 +1,6 @@
 # Configuration Management Automation with Ansible
 
-## Project Overview
+## Project hash
 This project is a demonstration of automating configuration management tasks using Ansible. It is designed to showcase my expertise in infrastructure automation, ensuring that system configurations are consistent, scalable, and easily manageable across different environments. This project reflects real-world scenarios, making it an ideal portfolio piece to demonstrate my capabilities in DevOps and cloud infrastructure management.
 
 ![Picture1](https://user-images.githubusercontent.com/50281621/176496822-96ebd976-09f3-46cb-90f4-bea2a2b513e7.png)
